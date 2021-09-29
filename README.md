@@ -1,6 +1,6 @@
 ### Hi I'm BoGyeong 👋
 
-- 🌱 I’m currently learning Machine Learning and python algorithm.
+I’m intrested in Deep learning for Computer Vision.
 
 <!--  ### Hi there 👋
 
