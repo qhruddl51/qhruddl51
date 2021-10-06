@@ -3,7 +3,7 @@
 I’m intrested in Deep learning for Computer Vision.
 <br>
 <pre>
-blog : https://blog.naver.com/qhruddl51
+Blog > https://blog.naver.com/qhruddl51
 </pre>
 <hr>
 
